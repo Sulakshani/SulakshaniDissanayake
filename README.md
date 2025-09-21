@@ -9,7 +9,7 @@ I'm **Sulakshani Dissanayake**, a passionate Undergraduate Student at the **Univ
 - 🌱 I’m currently learning **ASP.NET**  
 - 💻 Most used line of code: `git commit -m "Initial Commit"`  
 - 🤔 I’m looking for an **internship opportunity**  
-- 💬 Ask me about **Web Development, Microcontrollers, or Electronics**  
+- 💬 Ask me about **Full Stack Developer**  
 
 ---
 
@@ -43,11 +43,23 @@ I'm **Sulakshani Dissanayake**, a passionate Undergraduate Student at the **Univ
 
 ### 🏆 GitHub Stats
 <div align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Sulakshani&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulakshani&theme=dark&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sulakshani&theme=dark&show_icons=true" />
+
+<!-- Trophy in the middle with spacing below -->
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sulakshani&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+</div>
+
+<br> <!-- adds a gap after trophy -->
+
+<!-- Top languages and general stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulakshani&theme=dark&layout=compact" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sulakshani&theme=dark&show_icons=true" />
 
 </div>
+
+<br/>
+<br/>
 
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
