@@ -13,14 +13,20 @@ I'm **Sulakshani Dissanayake**, a passionate Undergraduate Student at the **Univ
 
 ---
 
+🤝 &nbsp; **Connect with Me**  
 
-🤝 &nbsp; **Connect with Me**
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sulakshani-dissanayake/)  
-[<img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />](https://www.hackerrank.com/Sulakshani2002)  
-[<img src="https://img.shields.io/badge/medium-%23121212.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sulakshanidissanayake)  
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/sulakshani-dissanayake/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/Sulakshani2002">
+    <img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sulakshanidissanayake">
+    <img src="https://img.shields.io/badge/medium-%23121212.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 
 
